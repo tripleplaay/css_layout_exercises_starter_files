@@ -17,11 +17,13 @@ nav .icon-img {
 	border-radius: 50%
 	vertical-align: middle;
 	border: 1px solid black;
+	float: left;
 }
 
 nav ul {
 	display: inline-block;
 	list-style: none;
+	float: left;
 }
 
 nav li {
