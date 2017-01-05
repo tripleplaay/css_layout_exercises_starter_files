@@ -18,13 +18,21 @@ main {
 .left, .right{
 	margin-top: 15px;
 	margin-bottom: 15px;
+	height: 300px;
+	width: 300px;
 }
+
 .left {
-	float: left
-	margin-right 15px;
+	float: left;
+	margin-right: 15px;	
+	position: inline-block;
+
+
+
 }
 
 .right {
 	float: right;
 	margin-left: 15px;
+	position: inline-block;
 }
